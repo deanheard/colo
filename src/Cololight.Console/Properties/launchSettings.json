@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CololightClient": {
+      "commandName": "Project",
+      "commandLineArgs": "-a 192.168.0.136 -o=true -rgb=FF00FF"
+    }
+  }
+}
