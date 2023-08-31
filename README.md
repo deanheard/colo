@@ -1,8 +1,8 @@
 # Colo
-.NET 5 library and application for controlling Cololight Pro hardware from the command line/shell.
+.NET 6 library and application for controlling Cololight Pro hardware from the command line/shell.
 
 ## Background
-Cololight Pro is a wifi-aware lighting system that is controlled by an application on your Android or iOS device. It's similar in concept to a Nanoleaf. "Colo" is a .NET Core solution that can be run from the Command Line on Windows, MacOS and Linux. Being Command Line based means you can integrate it into most scripting solutions on any of those platforms.
+Cololight Pro is a wifi-aware lighting system that is controlled by an application on your Android or iOS device. It's similar in concept to a Nanoleaf. "Colo" is a .NET solution that can be run from the Command Line on Windows, MacOS and Linux. Being Command Line based means you can integrate it into most scripting solutions on any of those platforms.
 
 ## Usage
 The help can be accessed by running `colo --help` at the command line/shell.
